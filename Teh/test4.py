@@ -126,5 +126,6 @@ widget.addWidget(main_window)
 widget.setFixedHeight(720)
 widget.setFixedWidth(720)
 widget.show()
+#test
 
 sys.exit(app.exec_())
